@@ -1,0 +1,372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"auto\tmargin-left"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"bg",
+				"background-image\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"he",
+				"head\tTag"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"filter",
+				"filter_input"
+			],
+			[
+				"filte",
+				"filter_input"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"h",
+				"min-height\tproperty"
+			],
+			[
+				"pA",
+				"Password"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"bo",
+				"box-sizing\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"sq",
+				"squarey"
+			],
+			[
+				"sqau",
+				"squarex"
+			],
+			[
+				"square",
+				"squarey"
+			],
+			[
+				"sqaure",
+				"squarey"
+			],
+			[
+				"n",
+				"Name"
+			],
+			[
+				"m",
+				"myForm"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/RAMINI VIVEK/Desktop/c3.html",
+		"/C/Users/RAMINI VIVEK/Desktop/c3.css",
+		"/C/Users/RAMINI VIVEK/Desktop/sss.html",
+		"/C/Users/RAMINI VIVEK/Desktop/1.html",
+		"/C/Users/RAMINI VIVEK/Desktop/3.html",
+		"/C/Users/RAMINI VIVEK/Desktop/firstproject/3.html",
+		"/C/Users/RAMINI VIVEK/Desktop/a.css",
+		"/C/Users/RAMINI VIVEK/Desktop/ajax_info.txt",
+		"/C/Users/RAMINI VIVEK/Desktop/12.html",
+		"/C/Users/RAMINI VIVEK/Desktop/cor.py",
+		"/C/Users/RAMINI VIVEK/Desktop/s.py",
+		"/C/Users/RAMINI VIVEK/Downloads/on-ti-bo/online-ticket-booking-system-project-asp-net-source-code-and-project-report/movieworld/Includes on laxmi/1.html",
+		"/C/Users/RAMINI VIVEK/Desktop/11.html",
+		"/C/Users/RAMINI VIVEK/Desktop/h.html",
+		"/C/Users/RAMINI VIVEK/Desktop/my.css",
+		"/C/Users/RAMINI VIVEK/Desktop/real.css",
+		"/C/Users/RAMINI VIVEK/Desktop/mystyle.css",
+		"/C/Users/RAMINI VIVEK/Desktop/real.html",
+		"/C/Users/RAMINI VIVEK/Desktop/fn.html",
+		"/C/Users/RAMINI VIVEK/Desktop/connect.php",
+		"/C/Users/RAMINI VIVEK/Desktop/li.html",
+		"/C/Users/RAMINI VIVEK/Desktop/anim.html",
+		"/C/Users/RAMINI VIVEK/Desktop/link.html",
+		"/C/Users/RAMINI VIVEK/Desktop/aaa.html",
+		"/C/Users/RAMINI VIVEK/Desktop/corr.py",
+		"/C/Users/RAMINI VIVEK/Desktop/New folder/vi.html",
+		"/C/Users/RAMINI VIVEK/Desktop/New folder/ajax.js",
+		"/C/Users/RAMINI VIVEK/Desktop/fv.html",
+		"/C/Users/RAMINI VIVEK/Desktop/New folder/callbyfun.html",
+		"/C/Users/RAMINI VIVEK/Desktop/form.html",
+		"/C/Users/RAMINI VIVEK/Desktop/New folder/ajax_info.txt",
+		"/C/Users/RAMINI VIVEK/Desktop/New folder/ajax1.html",
+		"/C/Users/RAMINI VIVEK/Desktop/4.html",
+		"/C/Users/RAMINI VIVEK/Desktop/abc.jsp",
+		"/C/Users/RAMINI VIVEK/Desktop/INLINE.html",
+		"/C/Users/RAMINI VIVEK/Desktop/ab.js",
+		"/C/Users/RAMINI VIVEK/Desktop/asss.html",
+		"/C/Users/RAMINI VIVEK/Desktop/a.jsp",
+		"/C/Users/RAMINI VIVEK/Desktop/c.js",
+		"/C/Users/RAMINI VIVEK/Desktop/lab3.html",
+		"/C/Users/RAMINI VIVEK/Desktop/j2.html",
+		"/C/Users/RAMINI VIVEK/Desktop/j1.html",
+		"/C/Users/RAMINI VIVEK/Desktop/New folder/aa.js",
+		"/C/Users/RAMINI VIVEK/Desktop/a.php",
+		"/C/Users/RAMINI VIVEK/Desktop/j4.html",
+		"/C/Users/RAMINI VIVEK/Desktop/v.html",
+		"/C/Users/RAMINI VIVEK/Desktop/frame.html",
+		"/C/Users/RAMINI VIVEK/Desktop/var1.html",
+		"/C/Users/RAMINI VIVEK/Desktop/New folder/v.html",
+		"/C/Users/RAMINI VIVEK/Desktop/cal1.html",
+		"/C/Users/RAMINI VIVEK/Desktop/add.js",
+		"/C/Users/RAMINI VIVEK/Desktop/e.css",
+		"/C/Users/RAMINI VIVEK/Desktop/anim1.html",
+		"/C/Users/RAMINI VIVEK/Desktop/New folder/ajaxinfo.txt",
+		"/C/Users/RAMINI VIVEK/Desktop/ajax1.html",
+		"/C/Users/RAMINI VIVEK/Desktop/ext.html",
+		"/C/Users/RAMINI VIVEK/Desktop/ajaxinfo.txt",
+		"/C/Users/RAMINI VIVEK/Desktop/ajax.js",
+		"/C/Users/RAMINI VIVEK/Desktop/ifelse.html",
+		"/C/Users/RAMINI VIVEK/Desktop/jso.html",
+		"/C/Users/RAMINI VIVEK/Desktop/this.html",
+		"/C/Users/RAMINI VIVEK/Desktop/obj.html",
+		"/C/Users/RAMINI VIVEK/Desktop/j3.html",
+		"/C/Users/RAMINI VIVEK/Desktop/add.html",
+		"/C/Users/RAMINI VIVEK/Desktop/for",
+		"/C/Users/RAMINI VIVEK/Desktop/a1.html",
+		"/C/Users/RAMINI VIVEK/Desktop/embedded.html",
+		"/C/Users/RAMINI VIVEK/Desktop/j44.hml",
+		"/C/Users/RAMINI VIVEK/Desktop/j4.hml",
+		"/C/Users/RAMINI VIVEK/Desktop/2.html",
+		"/C/Users/RAMINI VIVEK/Desktop/p.html",
+		"/C/Users/RAMINI VIVEK/Desktop/vivek1.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "c3.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

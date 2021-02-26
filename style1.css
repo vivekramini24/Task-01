@@ -1,0 +1,28 @@
+
+.contact-form{
+	background-color: #999;
+	height: 80vh
+	
+}
+.name{
+	border-radius: 25px;
+	width: 80%;
+	height: 50px;
+	margin-bottom: 20px; 
+	position:relative;
+}
+.name1{
+	border-radius: 25px;
+	width: 80%;
+	height: 50px;
+	margin-bottom: 20px; 
+}
+.navs{
+	margin-left: auto;
+}
+.navbar-nav li:hover{
+	background-color: gray
+}
+.navbar-nav li{
+	padding: 10px
+}
