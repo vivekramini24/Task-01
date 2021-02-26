@@ -1,8 +1,15 @@
 
 .contact-form{
 	background-color: #999;
-	height: 80vh
+	height: 70vh
 	
+}
+@media (max-width: 882px){
+	.contact-form{
+	
+	height: 110vh
+	
+}
 }
 .name{
 	border-radius: 25px;
